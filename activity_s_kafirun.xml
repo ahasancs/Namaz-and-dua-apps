@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.S_kafirun">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_kafirun"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textColor="#efeff7"
+                android:background="#10a498"
+                android:textStyle="italic"
+                android:text="সূরা কাফিরুন"/>
+            <TextView
+                android:id="@+id/text_kafirun"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textColor="#010543"
+                android:textStyle="italic"
+                android:text="سورة الكافرون \n
+الـرَّحْمنِ الرَّحِيْمِ \n
+
+قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ \n
+لَآ أَعْبُدُ مَا تَعْبُدُونَ \n
+وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ \n
+وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ \n
+وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ \n
+لَكُمْ دِينُكُمْ وَلِىَ دِينِ \n\n
+
+বাংলায় উচ্চারন:  \n
+ক্কুল ইয়া--- আইয়্যূহাল কা-ফিরূন।  \n
+লা--- ‘আবুদু মা- ‘তাবুদূন।  \n
+ওয়ালা--- আন্তুম ‘আ-বিদূনা মা--- ‘আবুদ।  \n
+ওয়ালা--- আনা ‘আবিদূম্ মা- ‘আবাত্তুম।  \n
+ওয়ালা--- আন্তুম ‘আ-বিদূনা মা--- ‘আবুদ।  \n
+লাকুম দ্বীনুকুম ওয়া লিয়া দ্বীন। \n\n
+
+বাংলায় অনুবাদ:  \n
+শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।  \n
+বলুন, হে কাফেরকূল, \n
+আমি এবাদত করিনা, তোমরা যার এবাদত কর।  \n
+এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি  \n
+এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।  \n
+তোমরা এবাদতকারী নও, যার এবাদত আমি করি।  \n
+তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।  \n\n
+"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btn1_kafirun"
+                android:textStyle="italic"
+                android:textColor="#f6f6f9"
+                android:layout_margin="04px"
+                android:background="#0a2191"
+                android:textSize="30dp"
+                android:text="Play Quran"/>
+
+            <Button
+                android:id="@+id/btn2_kafirun"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fd12a1a1"
+                android:textSize="30dp"
+                android:textColor="#eff0f4"
+                android:textStyle="italic"
+                android:text="তাফসীর"/>
+            <TextView
+                android:id="@+id/text1_kafirun"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textColor="#010543"
+                android:textStyle="italic"
+                android:text="এখানে শুধুমাত্র ঐ সমস্ত কাফেরদেরকে বিশেষভাবে বুঝানো হয়েছে, যাদের ব্যাপারে আল্লাহ জানতেন যে, তাদের মৃত্যু কুফর ও শিরকের অবস্থাতেই ঘটবে। কেননা, এ সূরাটি অবতীর্ণ হওয়ার পর কিছু সংখ্যক মুশরিক ইসলাম গ্রহণ করেছিল এবং তারা আল্লাহর ইবাদত করেছিল।
+কাফেররা মহানবী (সাঃ)-এর কাছে যখন (নিরপেক্ষ সন্ধি) প্রস্তাব রাখল যে, এক বছর আমরা তোমার উপাস্যের ইবাদত করব এবং এক বছর তুমি আমাদের উপাস্যের ইবাদত করবে। প্রতি উত্তর থাকে, এটা কখনই সম্ভব নয় যে, আমি তাওহীদের পথ পরিত্যাগ করে শিরকের পথ অবলম্বন করে নেব; যেমন তোমরা চাচ্ছ। আর যদি আল্লাহ তোমাদের ভাগ্যে হিদায়াত না লিখে থাকেন, তাহলে তোমরাও তাওহীদ ও আল্লাহর উপাসনা থেকে বঞ্চিতই থাকবে।
+যদি তোমরা তোমাদের দ্বীন নিয়ে সন্তুষ্ট থাক এবং তা ত্যাগ করতে রাজী না হও, তাহলে আমিও নিজের দ্বীন নিয়ে সন্তুষ্ট, তা কেন ত্যাগ করব? (لَناَ أَعْمَالُناَ وَلَكُمْ أَعْمَالُكُمْ) অর্থাৎ, আমাদের কর্ম আমাদের এবং তোমাদের কর্ম তোমাদের জন্য। (আল ক্বাস্বাস ৫৫ আয়াত) (তাছাড়া তোমাদের কর্ম ভ্রষ্ট এবং আমার কর্ম শ্রেষ্ঠ। আর অন্যায়ের সাথে কোন আপোস নেই।)[৫]"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

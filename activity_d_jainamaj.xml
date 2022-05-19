@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_jainamaj">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_jaimanaj"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:background="#169c9e"
+                android:textSize="30dp"
+                android:textColor="#f7f7fa"
+                android:text="জায়নামাজের দোয়াঃ"/>
+
+
+            <TextView
+                android:id="@+id/text_jainamaj"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textSize="20dp"
+                android:textColor="#010326"
+                android:text="জায়নামাজে দাঁড়িয়ে নামাজ শুরুর পূর্বেই এই দোয়া পড়তে হয়, \n \n
+বাংলা উচ্চারন-ইন্নি ওয়াজ্জাহ তু ওয়াজ্ হিয়া লিল্লাজি, ফাত্বরস্ সামা-ওয়া-তি ওয়াল্ আরদ্বঅ হানি-ফাওঁ ওয়ামা-আনা মিনাল মুশরিকী-ন। \n\n
+
+
+অর্থ-নিশ্চই আমি তারই দিকে মুখ করলাম, যিনি আসমান ও যমীন সৃষ্টি করেছেন এবং বাস্তবিকই আমি মুশরিকদের অন্তর্ভুক্ত নই ।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

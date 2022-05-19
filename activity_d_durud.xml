@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_durud">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_margin="15dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_durud"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textColor="#f5f2f2"
+                android:textStyle="italic"
+                android:background="#0d8f7a"
+                android:text="দরুদ শরিফ  "/>
+            <TextView
+                android:id="@+id/text_durud"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textSize="20dp"
+                android:textColor="#00002e"
+                android:text="اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى اِبْرَ اهِيْمَ وَعَلَى اَلِ اِبْرَ اهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ
+اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى اِبْرَ اهِيْمَ وَعَلَى اَلِ اِبْرَاهِيْمَ اِنَّكَ حَمِيْدٌمَّجِيْدٌ
+
+                \n\n
+                আল্লাহুম্মা সাল্লি 'আলা মুহাম্মাদিওঁ
+ওয়া 'আলা আলি মুদাম্মাদিন।
+কামা সাল্লাইতা 'আলা ইবরাহীমা ওয়া 'আলা আলি ইবরাহীমা ইন্নাকা হামীদুম
+মাজীদ।
+আল্লাহুম্মা বারিক 'আলা মুহাম্মাদিওঁ
+ওয়া 'আলা আলি মুদাম্মাদিন।
+কামা বারাক্তা 'আলা ইবরাহীমা ওয়া 'আলা আলি ইবরাহীমা ইন্নাকা হামীদুম
+মাজীদ।
+\n\n
+↓
+অর্থ- হে আল্লাহ, দয়া ও রহমত করুন হযরত মুহাম্মাদ
+সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর প্রতি এবং তার বংশধরদের প্রতি, যেমন রহমত করেছেন হযরত ইব্রাহীম (আঃ) ও তার বংশধরদের উপর। নিশ্চই আপনি উত্তম গুনের আধার এবং মহান।
+হে আল্লাহ, বরকত নাযিল করুন হযরত
+মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর প্রতি এবং তার বংশধরদের প্রতি, যেমন করেছেন হযরত ইব্রাহীম (আঃ) ও তার বংশধরদের উপর। নিশ্চই
+আপনি প্রশংসার যোগ্য ও সম্মানের অধিকারী।"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f9f9fa"
+                android:background="#14a69c"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:text="দুরূদ পাঠের লাভ"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#00052d"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:text="
+
+                বিভিন্ন হাদিসে দুরূদ পাঠের লাভ বর্ণিত হয়েছে। তন্মধ্যে বুখারী এবং মুসলিম শরীফের হাদিসে বর্ণিত আছে যে, প্রতিবার দরুদ শরীফ পড়ার বদৌলতে আল্লাহ, পাঠকারীর উপর ১০ বার দয়া করেন। জুম্মার দিনের লাভ প্রসঙ্গে মুহাম্মদ (সা:) বলেছেন,\n
+
+“	তোমরা এদিনে আমার প্রতি বেশি পরিমাণে দুরূদ পাঠ করো। এ দুরূদে ফেরেস্তাগণ অংশগ্রহণ করে এবং এ দুরূদ আমার কাছে পেশ করা হয়।	” \n\n
+আব্দুল্লাহ ইবনে মাসউদ (রা:) থেকে বর্ণিত মুহাম্মদ (সা:) বলেছেন, \n
+
+“	কিয়ামতের দিন সে ব্যক্তিই আমার সবচেয়ে নিকটবর্তী হবে, যে আমার উপর বেশি বেশি দুরূদ/সালাত পাঠ করে।	”"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

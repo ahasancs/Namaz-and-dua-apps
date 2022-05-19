@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.kotipoy_makru">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/btn_makru"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f8f9fa"
+                android:textSize="30dp"
+                android:background="#18a7a0"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="নামাযের মাকরূহাত"/>
+
+            <TextView
+                android:id="@+id/text_makru"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textSize="20dp"
+                android:textColor="#010335"
+                android:text=" :
+
+১)চাদর বা জামা না পড়ে কাঁধে ঝুলিয়া রাখা । \n\n
+
+২) ময়লা ধুলা-বালি লাগার ভয়ে কাপড়/জামা গুটানো ।\n\n
+
+৩) আঙ্গুল মটকান । \n\n
+
+৪) বস্ত্র,শরীর অথবা দাঁড়ির সাথে খেলা করা । \n\n
+
+৫) এদিক ওদিক দেখা । \n\n
+
+৬) চুল মাথার উপরিভাগে বাঁধা । \n\n
+
+৭) বিনা ওজরে সেজদার স্থানের ইট-পাথর সরান । \n\n
+
+৮) আলস্যভরে শরীর মোড়ামুড়ি করা । \n\n
+
+৯) সিজদার সময়ে হাত বিছিয়ে দেওয়া । \n\n
+
+১০) আগের কাতারে স্থান থাকতে পিছনের কাতারে দাঁড়ানো । \n\n
+
+১১) অবহেলা করে খালি মাথায় নামায পড়া । \n\n
+
+১২) আকাশের দিকে তাকান । \n\n
+
+১৩) ভাল কাপড় থাকা সত্ত্বেও মন্দ কাপর পড়ে নামায পড়া ।\n\n
+
+১৪) নামাযের মধ্যে কপালের মাটি মুছে ফেলা । n\n\
+
+১৫) কোন প্রাণীর ছবি সম্মুখে,ডাইনে,বামে,মস্তকের উপর বা কাপড়ের মধ্যে থাকা ।\n\n
+
+১৬) সিজদার সময়ে বিনা কারণে হাটুর পূর্বে হাত মাটিতে রাখা ।\n\n
+
+১৭) বিনা কারণে আসন পেতে বসা ।\n\n
+
+১৮) ফরয নামাযে এক সূরা বার বার পড়া ।\n\n
+
+১৯) কোন মানুষের মুখের দিক হয়ে নামায পড়া ।\n\n
+
+২০) সিজদাতে পিঠ উভয় উরুর সহিত মিলিয়ে দেওয়া ।\n\n
+
+২১) এক হাত বা তদুর্ধ স্থানে ইমামের দাঁড়ান । \n\n
+
+২২) উভয় সিজদার মধ্যে অথবা তাশাহুদ পড়ার সময়ে কুকুরের ন্যায় বসা ।\n\n
+
+২৩) দুই হাতে মাটি ভর দিয়া উঠা ।\n\n
+
+২৪) কোন সুন্নত পরিত্যাগ করা । \n\n
+
+২৫) নাক মুখ ঢেকে নামাজ পড়া"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

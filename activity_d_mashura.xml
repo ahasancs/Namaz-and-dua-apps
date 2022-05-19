@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_mashura">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_mmashura"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f5f6f9"
+                android:textSize="30dp"
+                android:background="#179983"
+                android:textStyle="italic"
+                android:text="দোয়ায়ে মাসুরা"/>
+
+           <TextView
+               android:id="@+id/text_mashura"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:textStyle="italic"
+               android:textColor="#012141"
+               android:textSize="20dp"
+               android:text="اللَّهُمَّ اغْفِرْ لِىْ وَلِوَ الِدَىَّ وَلِمَنْ تَوَالَّدَ وَلِجَمِيْعِ الْمُؤْ مِنِيْنَ وَالْمُؤْ مِنَاتِ وَالْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالاْاَحْيَاءِ مِنْهُمْ وَالْاَمُوْ اَتْ بِرَحْمَتِكَ يَااَرْحَمَرَّحِمِيْنَ \n\n
+উচ্চারনঃ আল্লাহুমাগ ফিরলী ওয়ালি ওয়ালিদাইয়্যা ওয়ালিমান তাওয়াল্লাদা ওয়ালি জামীঈল, মু’মিনীনা ওয়াল মুমিনাত, ওয়াল মুসলিমীনা ওয়াল মুসলিমাত, ওয়াল আহ্ইয়ায়ি মিনহুম ওয়াল আমুয়াত, বিরাহমাতিকা ইয়া আরহামার রাহিমীন। \n\n
+
+অনুবাদঃ হে পরম করুণাময় আল্লাহ তায়ালা! আমাকে, আমার পিতা মাতাকে, সন্তান-সন্ততিকে, সমস্ত মু’মিন পুরুষ ও নারীকে এবং জীবিত মৃত সমস্ত মুসলিম নর-নারীকে ক্ষমা কর।"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.islamic.jakirliton.namazoduya.G_sasti">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_sasti"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:background="#17a99a"
+                android:textColor="#f7f8fa"
+                android:text="নামাজ ত্যাগের ভয়াবহ পরিনাম"/>
+            <TextView
+                android:id="@+id/text_sasti"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#011040"
+                android:text="১। হযরত জাবের ইবনে আব্দুল্লাহ রাযি. হতে বর্ণিত, তিনি বলেন, \n\n
+
+سمعت النبي صلى الله عليه و سلم يقول إن بين الرجل وبين الشرك والكفر ترك الصلاة \n\n
+
+আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছি, একজন মুসলিম ও শিরক, কুফরের মাঝে পার্থক্য হল নামাজ ছেড়ে দেয়া। অর্থাৎ নামাজ ছেড়ে দেয়া মুসলিম ব্যক্তিকে কুফর ও র্শিক পর্যন্ত পৌছে দেয়। (সহীহ মুসলিম, হাদীস নং ৮২) \n\n
+
+২। হযরত নাওফাল ইবনে মুয়াবিয়া রাযি. হতে বর্ণিত, \n\n
+
+أن النبي صلى الله عليه و سلم قال من فاتته الصلاة فكأنما وتر أهله وماله \n\n
+
+রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, যার এক ওয়াক্ত নামাজ ছুটে গেল তার যেন ঘরবাড়ি পরিবার ও ধনসম্পদ সবই কেড়ে নেয়া হল।(সহীহ ইবনে হিব্বান, হাদীস নং ২৪৬৮, নাসাঈ শরীফ, হাদীস নং ৭৪৮) \n\n
+৩। হযরত আব্দুল্লাহ ইবনে আব্বাস রাযি. হতে বর্ণিত,
+
+قال رسول الله صلى الله عليه و سلم : من جمع بين الصلاتين من غير عذر فقد أتى بابا من أبواب الكبائر \n\n
+
+রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন, যে ব্যক্তি শরীয়ত সম্মত ওজর ব্যতীত দুই ওয়াক্ত নামাজ একসঙ্গে পড়ল, সে কবীরা গোনাহের মধ্য থেকে একটিতে প্রবেশ করল।(মুসতাদরাকে হাকেম, হাদীস নং ১০২০, সুনানুল ক্বুরা লিল বাইহাক্বী, হাদীস নং ৫৭৭১) \n\n
+
+৪। হযরত আব্দুল্লাহ ইবনে আমর রাযি. হতে বর্ণিত, \n\n
+
+عن النبي صلى الله عليه و سلم أنه ذكر الصلاة يوما فقال من حافظ عليها كانت له نورا وبرهانا ونجاة يوم القيامة ومن لم يحافظ عليها لم يكن له نور ولا برهان ولا نجاة وكان يوم القيامة مع قارون وفرعون وهامان وأبي بن خلف \n\n
+
+একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম নামাজের বিষয় উল্লেখ করে বললেন, যে ব্যক্তি নামাজের ইহতেমাম করে, তার জন্য নামাজ কিয়ামতের দিন নূর হবে ও হিসাবের সময় দলীল হবে ওবং নাজাতের উপায় হবে। আর যে ব্যক্তি নামাজের ইহতিমাম করে না, কিয়ামতের দিন নামাজ তার জন্য নূর হবে না, আর তার নিকট কোন দলীলও থাকবে না এবং নাজাতের জন্য কোন উপায়ও হবে না।এমন ব্যক্তির হাশর হবে ফেরআউন, হামান ও উবাই ইবনে খলফের সাথে।(মুসনাদে আহমদ, হাদীস নং ৬৫৭৬, সহীহ ইবনে হিব্বান হাদীস নং ১৪৬৭) \n\n
+
+আল্লাহ তাআলা আমদের পাঁচ ওয়াক্ত নামাজের ইহতেমাম করার তাওফিক দান করুন। আমীন।"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

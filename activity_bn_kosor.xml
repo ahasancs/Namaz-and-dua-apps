@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.bn_kosor">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn_kosor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fa159f84"
+                android:textSize="30dp"
+                android:textColor="#f2f4f7"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="কসর নামাজ"/>
+            <TextView
+                android:id="@+id/text_kosor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#00162d"
+                android:text="কসর আরবি শব্দ। এর অর্থ হলো কম করা, কমানো। ইসলামী শরিয়তে কোনো ব্যক্তি যদি ৪৮ মাইল বা তারও বেশি দূরত্বের ভ্রমণে বাড়ি থেকে বের হন, তাহলে তিনি মুসাফির। আর তিনি যদি সেখানে ১৫ দিনের কম সময় থাকার নিয়ত করেন, তবে চার রাকাতবিশিষ্ট ফরজ নামাজ দুই রাকাত পড়বেন। আল্লাহ তায়ালা এই সংক্ষেপ করার মাঝে কল্যাণ রেখেছেন। \n
+
+অধিকাংশ আলেমদের মতে- সাধারণত ৪৮ মাইল দূরত্বের পথ
+অতিক্রমের নিয়ত করে ঘর থেকে বের হলে নামায কসর করতে হবে। \n
+
+সফরকারী ব্যক্তি সফরের নিয়তে ঘর থেকে বের হলেও সে নিজ এলাকা/মহল্লায় থাকা অবস্থায় স্বাভাবিকভাবেই নামায আদায় করবে।
+যখন সে এলাকা ত্যাগ করবে, তখন থেকে নামাজ কসর করবে। \n
+
+# হযরত আনাস ইবনে মালেক (রা.) বর্ণনা করে বলেন, নিশ্চয়ই রাসুল (সা.) (বিদায় হজ্জের নিয়তে) মক্কা সফরের সময় মদীনায় যোহরের নামায চার রাকায়াত আদায় করেছেন। আর (সফর শুরু করে) যুলহুলায়ফা নামক স্থানে পৌছে আসরের নামায দু’রাকায়াত আদায় করেছেন।
+(বুখারী, মুসলিম, মেশকাত-১২৫৪) \n
+
+এখানে যুলহুলায়ফা নামক স্থানটি মদীনা হতে প্রায় মাইল দূরে অবস্থিত,
+যেখানে এসে রাসুল (সা.) নামায কসর করেছেন। \n
+
+যে স্থানে যাওয়ার উদ্দেশ্যে সফর করা হবে, সে স্থানে যদি ১৫ দিনের
+কম থাকার নিয়ত হয়, তাহলে ব্যক্তি গন্তব্যস্থলে পৌছে তার নামাজ
+কসর করবেন। \n
+
+আর যদি গন্তব্যস্থলে তার ১৫ দিনের বেশী থাকার নিয়ত হয়, তাহলে সে স্বাভাবিক চার রাকায়াত নামাজই পড়বেন। \n
+
+যদি কেহ ১৫ দিনের কম অবস্থানের নিয়তে বের হয়ে ১৩/১৪ দিন পর দেখেন তার প্রয়োজন পূর্ণ হয়নি, তিনি আবারও ১৫ দিনের কম নিয়ত করে কসর নামায পড়তে পারবেন
+
+অন্য শহরে বাসিন্দাগণ নিজ বাড়িতে সফর করলে কোন কসর
+পড়া যাবে না। শুধু যাত্রা পথে কসর করবেন। \n
+
+রাসুল (সা.) সফরে ফজরের সুন্নত ও বিতরের তিন রাকায়াত ছাড়া
+অন্য কোন সুন্নত নামায পড়েন নি।"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

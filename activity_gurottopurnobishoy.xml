@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:layout_margin="0dp"
+    tools:context="com.islamic.jakirliton.namazoduya.Gurottopurnobishoy">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:background="#ffffff">
+
+            <Button
+                android:id="@+id/tid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#d6dcef"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজের ফজিলত"
+                />
+            <Button
+                android:id="@+id/tid2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজ পরিত্যাগের শাস্তি"
+                />
+
+            <Button
+                android:id="@+id/tid3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#aebded"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text=" নামাজের পার্থক্য"
+                />
+
+            <Button
+                android:id="@+id/tid4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#92a4dc"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজের নিষিদ্ধ সময়"
+                />
+
+            <Button
+                android:id="@+id/tid5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজের নিষিদ্ধ কার্যাবলি"
+                />
+
+            <Button
+                android:id="@+id/tid6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#b8c2e4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="ক্কাজা নামাজের বিবরণ"
+                />
+
+            <Button
+                android:id="@+id/tid7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+               android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="মাসবুক নামাজের বিবরন"
+                />
+
+            <Button
+                android:id="@+id/tid8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#97a9e2"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সিজদাহ সাহুর বিধান"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context="com.islamic.jakirliton.namazoduya.NamajerNiyom">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="8dp"
+            android:background="#ffffff">
+            <Button
+                android:id="@+id/tid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="কসর/মুসাফিরের নামাজ"
+                />
+
+
+            <Button
+                android:id="@+id/tid2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#b5c2ed"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="তাড়াবীহ'র নামাজ"
+                />
+            <Button
+                android:id="@+id/tid3"
+                android:layout_width="match_parent"
+                android:background="#cdd5ed"
+                android:layout_margin="7dp"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="জুম'আর নামাজের নিয়ম"
+                />
+            <Button
+                android:id="@+id/tid4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#c1c9e6"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="ঈদের নামাজের নিয়ম"
+                />
+            <Button
+                android:id="@+id/tid5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="জানাজার নামাজের নিয়ম"
+                />
+            <Button
+                android:id="@+id/tid6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#bdc8ea"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="চাশতের নামাজ"
+                />
+            <Button
+                android:id="@+id/tid7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#c4cdea"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="তাহাজ্জুদের নামাজ"
+                />
+            <Button
+                android:id="@+id/tid8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="@color/colorPrimary"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সালাতুল তাসবীহ"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

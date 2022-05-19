@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.bn_eid">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn_eid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="ইদের নামাজ"
+                android:background="#188c7b"
+                android:textColor="#f2f5f9"/>
+            <TextView
+                android:id="@+id/text_eid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#00162d"
+                android:text="
+ইমামের পেছনে কেবলামুখি হয়ে ঈদুল ফিতরের দু’রাকাত ওয়াজিব নামাজ ৬ তাকবিরের সঙ্গে আদায়া করছি- এরূপ নিয়ত করে ‘আল্লাহু আকবার’ বলে হাত তুলে তাহরিমা বাঁধবে। তারপর সানা (সুবহানাকাল্লাহুম্মা...) পুরোটা পড়বে। এরপর আউযুবিল্লাহ এবং বিসমিল্লাহর আগে তিনবার ‘আল্লাহু আকবার’ বলে তাকবির বলবে। প্রথম দু’বার কান পর্যন্ত হাত উঠিয়ে ছেড়ে দেবে।\n
+
+কিন্তু তৃতীয়বার বলে হাত বেঁধে নেবে। প্রত্যেক তাকবিরের পর তিনবার সুবহানাল্লাহ বলা যায় পরিমাণ থামবে। তারপর আউযুবিল্লাহ এবং বিসমিল্লাহ পড়ে সূরায়ে ফাতেহার পরে একটা সূরা মেলাবে। এরপর রুকু, সিজদা করে দ্বিতীয় রাকাতের জন্য দাঁড়াবে। এবার অন্যান্য নামাজের মতো বিসমিল্লাহর পরে সূরা ফাতেহা পড়ে আরেকটা সূরা মেলাবে। তারপর তিনবার ‘আল্লাহু আকবার’ বলার মাধ্যমে তিনটা তাকবির সম্পন্ন করবে। এখানে প্রতি তাকবিরের পর হাত ছেড়ে দেবে এবং চতুর্থবার ‘আল্লাহু আকবার’ বলে হাত না বেঁধে রুকুতে চলে যাবে। এরপর সেজদা এবং আখেরি বৈঠক করে যথারীতি সালাম ফিরায়ে নামাজ শেষ করবে। \n \n
+
+ঈদের জামাত সম্পর্কীয় মাসয়ালা\n \n
+মাসয়ালা: ইমাম সাহেব জুমার মতো দু’টি খুতবা দেবেন। তবে জুমার খুতবা দেওয়া ফরজ আর ঈদের খুতবা দেওয়া সুন্নত। কিন্তু ঈদের খুতবা শুনা ওয়াজিব। ওই সময় কথাবার্তা, চলাফেরা, টাকা উঠানো ইত্যাদি যেকোনো কাজ নিষেধ। \n
+
+মাসয়ালা: ঈদের নামাজের পূর্বে মহিলা হোক কিংবা পুরুষ, বাড়িতে কিংবা মসজিদে অথবা ঈদগাহে নফল নামাজ পড়া মাকরূহ। \n
+
+মাসয়ালা: সম্ভব হলে এলাকার সবাই একস্থানে একত্রে ঈদের নামাজ পড়া উত্তম। তবে কয়েক জায়গায় পড়াও জায়েজ। \n
+
+মাসয়ালা: ঈদের নামাজ না পড়তে পারলে কিংবা নামাজ নষ্ট হয়ে গেলে তার কাজা করতে হবে না, যেহেতু ঈদের নামাজের জন্য জামাত শর্ত। তবে বেশকিছু লোকের ঈদের নামাজ ছুটে গেলে বা নষ্ট হয়ে গেলে তারা অন্য একজনকে ইমাম বানিয়ে নামাজ পড়তে পারবেন। \n
+
+মাসয়ালা: ১ শাওয়ালের দ্বিপ্রহরের পূর্বে শরিয়তসম্মত কোনো কারণে ঈদের নামাজ না পড়তে পারলে শাওয়ালের ২ তারিখে পড়ার অনুমতি আছে। এরপর আর নামাজ পড়া যাবে না। \n
+
+মাসয়ালা: কেউ ইমাম সাহেবকে দ্বিতীয় রাকাতে পেলে সালামের পর যখন ওই ব্যক্তি ছুটে যাওয়া রাকাতের (প্রথম রাকাত) জন্য"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

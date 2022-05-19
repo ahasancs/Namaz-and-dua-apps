@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.kotipoy_namjvongo">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+                <Button
+                    android:id="@+id/btn_namajvongo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="#f8f9fa"
+                    android:textSize="30dp"
+                    android:background="#18a7a0"
+                    android:textStyle="italic"
+                    android:gravity="center"
+                    android:text="নামায ভঙ্গের কারণ ১৯টি"/>
+                <TextView
+                    android:id="@+id/text_namajvongo"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textStyle="italic"
+                    android:textSize="20dp"
+                    android:textColor="#011040"
+                    android:text="
+১. নামাযে অশুদ্ধ পড়া। \n
+২. নামাযের ভিতরে কথা বলা। \n
+৩. কোন লোককে সালাম দেয়া। \n
+৪. সালামে উত্তর দেয়া। \n
+৫. উহ্-আহ্ শব্দ করা। \n
+৬. বিনা ওযরে কাশি দেয়া। \n
+৭. আমলে কাছীর করা। \n
+৮. বিপদে বা বেদনায় শব্দ করে কাঁদা। \n
+৯. তিন তাসবীহ পরিমাণ সময় সতর খুলে থাকা। \n
+১০. মুত্তাদি ব্যতীত অপর ব্যক্তির লোকমা গ্রহণ করা।\n
+১১. সুসংবাদের বা দুঃসংবাদের উত্তর দেয়া। ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজি‘উন বলা। \n
+১২. নাপাক জায়গায় সিজদা করা। \n
+১৩. কিবলার দিক হতে সিনা ঘুরে যাওয়া। \n
+১৪. নামাযে কুরআন শরীফ দেখে পড়া। \n
+১৫. নামাযে শব্দ করে হাসা। \n
+১৬. নামাযে দুনিয়াবী কোন কিছু প্রার্থনা করা। \n
+১৭. হাঁচির উত্তর দেয়া। (জাওয়াবে ‘ইয়ারহামুকাল্লাহ’ বলা) \n
+১৮. নামাযে খাওয়া বা পান করা। \n
+১৯. ইমাম হতে এগিয়ে মুক্তাদির খাড়া হওয়া।"/>
+
+            </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

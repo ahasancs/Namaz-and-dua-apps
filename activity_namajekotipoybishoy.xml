@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.Namajekotipoybishoy">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:background="#f9fafc"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+            <Button
+                android:id="@+id/tid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#dadcf7"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজ ফরজ হওয়ার শর্ত"
+                />
+            <Button
+                android:id="@+id/tid2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#c1ccef"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="ওজুর নিয়মাবলী"
+                />
+            <Button
+                android:id="@+id/tid3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#a3bcec"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="আহকাম ও আরকান"
+                />
+            <Button
+                android:id="@+id/tid4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#93aae6"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজে ওয়াজিব"
+                />
+            <Button
+                android:id="@+id/tid5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#8aa3e4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজে সূন্নত "
+                />
+            <Button
+                android:id="@+id/tid6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#85a0e6"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজে মোস্তাহাব"
+                />
+            <Button
+                android:id="@+id/tid7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#6fa8e1"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজের মাকরূহসমুহ"
+                />
+            <Button
+                android:id="@+id/tid8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#3286dc"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নামাজ ভংগের কারন"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+

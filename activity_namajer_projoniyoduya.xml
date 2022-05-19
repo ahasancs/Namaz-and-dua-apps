@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.Namajer_projoniyoduya">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="8dp"
+        android:gravity="center"
+        android:background="#ffffff">
+
+        <Button
+            android:id="@+id/tid1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#d6dcef"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="বিভিন্ন নামাজের নিয়ত"
+            />
+
+        <Button
+            android:id="@+id/tid2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#bec1e7"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="জায়নামজের দোয়া"
+            />
+        <Button
+            android:id="@+id/tid3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#aaaee7"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="সানা"
+            />
+        <Button
+            android:id="@+id/tid4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#9096dc"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="রুকু-সিজদার নিয়ম"
+            />
+        <Button
+            android:id="@+id/tid5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#fd6d7ede"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="তাশাহুদ/আত্যাহিয়্যাতু"
+            />
+        <Button
+            android:id="@+id/tid6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#414bcf"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="দরুদ শরীফ"
+            />
+        <Button
+            android:id="@+id/tid7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#2834d1"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="দোয়ায়ে মাসুরা"
+            />
+        <Button
+            android:id="@+id/tid8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:background="#0615df"
+            android:layout_margin="7dp"
+            android:textAlignment="center"
+            android:textColor="#fd080808"
+            android:text="দোয়ায়ে কুন্যূত"
+            />
+
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

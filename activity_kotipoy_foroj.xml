@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.kotipoy_foroj">
+
+    <TextView
+        android:id="@+id/text_foroj"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="নামাজ ফরজ হওয়ার শর্ত:\n
+১. মুসলমান হওয় \n
+২. বয়স কমপক্ষে ৭ বৎসর হওয়া \n
+৩. সুস্থ মস্তিস্কের হওয়া।
+"
+      android:textSize="25dp"
+        android:gravity="center"
+       android:textColor="#013809"/>
+
+
+
+
+</LinearLayout>

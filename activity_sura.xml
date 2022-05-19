@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#119989"
+    tools:context="com.islamic.jakirliton.namazoduya.Sura">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#ffffff"
+            android:layout_margin="10dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/tid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f1f2f5"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#020f33"
+                android:text="সূরা আল ফাতিহা"
+                />
+
+            <Button
+                android:id="@+id/tid3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সূরা আল-কুরাইশ"
+                />
+            <Button
+                android:id="@+id/tid4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-মাঊন"
+                />
+            <Button
+                android:id="@+id/tid5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-কাউসার"
+                />
+            <Button
+                android:id="@+id/tid6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-কাফিরুন"
+                />
+            <Button
+                android:id="@+id/tid7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-নাসর"
+                />
+            <Button
+                android:id="@+id/tid8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-লাহাব"
+                />
+            <Button
+                android:id="@+id/tid9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-ইখলাস"
+                />
+            <Button
+                android:id="@+id/tid10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-ফালাক"
+                />
+            <Button
+                android:id="@+id/tid11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:background="#f0f1f4"
+                android:layout_margin="7dp"
+
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="সুরা আল-নাস"
+                />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

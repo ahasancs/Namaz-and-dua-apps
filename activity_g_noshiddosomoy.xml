@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.G_noshiddosomoy">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_somoy"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#18b1a4"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:textColor="#fbfcfd"
+                android:text="তিন সময় নামাজ পড়া নিষেধ"/>
+            <TextView
+                android:id="@+id/text_somoy"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="70px"
+                android:textStyle="italic"
+                android:textColor="#011040"
+                android:text=" ইসলামের অন্যতম ইবাদত নামাজ। নামাজ পরকালে জান্নাতে যাওয়ার অন্যতম মাধ্যম। মুসলমানদের জন্য দিন-রাতে পাঁচ ওয়াক্ত নামাজ পড়া ফরজ। ফরজ নামাজ ছাড়া অনেক নফল নামাজ আদায়ের কথাও উল্লেখ আছে হাদিসে। যে যত বেশি নামাজ আদায় করবে, পরকালীন সফলতা তার তত বেশি। ফরজ নামাজ আদায়ের নির্ধারিত পাঁচটি সময় থাকলেও নফল নামাজের জন্য সময়ের কোনো সীমাব্ধতা নেই। যখন ইচ্ছা পড়া যাবে। তবে কিছু সময় এমন আছে যখন নামাজ পড়া সম্পূর্ণরূপে হারাম। আর কিছু সময় এমন আছে যাতে নির্ধারিত কিছু নামাজ পড়া মাকরুহ। সাহাবি উকবা বিন আমের জুহানী রা. বলেন, ‘তিনটি সময়ে রাসুল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেরকে নামাজ পড়তে এবং মৃতের দাফন করতে নিষেধ করতেন। সূর্য উদয়ের সময়; যতোক্ষণ না তা পুরোপুরি উঁচু হয়ে যায়। সূর্য মধ্যাকাশে অবস্থানের সময় থেকে নিয়ে তা পশ্চিমাকাশে ঢলে পড়া পর্যন্ত। যখন সূর্য অস্ত যায়’। [সুবুলুস সালাম : ১/১১১, মুসলিম : ১/৫৬৮] \n\n
+উক্ত হাদিসের ভাষ্যানুযায়ী নামাজের নিষিদ্ধ সময় তিনটি।  \n
+যথা-১. সূর্য যখন উদিত হতে থাকে এবং যতোক্ষণ না তার হলুদ রঙ ভালোভাবে চলে যায় ও আলো ভালোভাবে ছড়িয়ে পড়ে। এরজন্য আনুমানিক ১৫-২০ মিনিট সময় প্রয়োজন হয়। ২. ঠিক দ্বিপ্রহরের সময়; যতোক্ষণ না তা পশ্চিমাকাশে ঢলে পড়ে। ৩. সূর্য হলুদবর্ণ ধারণ করার পর থেকে সূর্যাস্ত পর্যন্ত।
+উল্লিখিত তিন সময়ে সব ধরনের নামাজ পড়া নিষেধ। চাই তা ফরজ হোক কিংবা নফল। ওয়াজিব হোক বা সুন্নতে মুয়াক্কাদা। এ সময়ে শুকরিয়ার সিজদা এবং অন্য সময়ে পাঠকৃত তিলাওয়াতের সিজদাও নিষিদ্ধ। তবে এই সময়ে জানাজা উপস্থিত হলে বিলম্ব না করে তা পড়ে নেয়া যাবে। ঠিক তদ্রুপ কেউ যদি ওই দিনের আসরের নামাজ সঠিক সময়ে পড়তে না পারে তাহলে সূর্যাস্তের আগে হলেও তা পড়ে নিতে হবে। কাযা করা যাবে না। কারণ রাসুল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেন, ‘যে ব্যক্তি সূর্যাস্তের পূর্বে আসরের এক রাকাত পড়তে পারলো সে পুরো আসরের নামাজই পেলো’। \n\n
+
+অন্য হাদিসে আরো দুই সময়ে নামাজ পড়ার নিষেধাজ্ঞা এসেছে। সাহাবি আবু সাঈদ খুদরী রা. বলেন, ‘আমি রাসুল সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে বলতে শুনেছি, ফজরের নামাজের পর থেকে সূর্যোদয় পর্যন্ত কোনো নামাজ নেই। আসরের নামাজের পর থেকে সূর্যাস্ত পর্যন্ত কোনো নামাজ নেই। [মুসলিম : ৮২৭] \n\n
+এই দুই সময়ে কোনো ধরনের নফল নামাজ পড়া জায়েয নেই। তবে আসরের নামাজের পর সূর্য লালবর্ণ ধারণের আগ পর্যন্ত কাযা নামাজ পড়া যাবে। এরপর আর কাযাও পড়া যাবে না। তবে এ দুই সময়ে জানাজার নামাজ পড়া যাবে।"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

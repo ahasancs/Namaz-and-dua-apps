@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.kotipoy_mustahab">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_mustahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f8f9fa"
+                android:textSize="30dp"
+                android:background="#18a7a0"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="নামাজের মুস্তাহাব সমূহ "/>
+
+            <TextView
+                android:id="@+id/text_mustahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#010a26"
+                android:text="
+(১) এক্বামতের সময়ে “হাইয়্যালাল ফালাহ্” বলামাত্র নামাযে ঠিকভাবে দাঁড়ান । \n\n
+
+(২) তাকবীরে তাহরীমা বলার সময়ে আন্তিন হতে হাতের তালু বাহির করা । \n\n
+
+(৩) দাঁড়াবার সময়ে সিজদার জায়গার প্রতি দৃষ্টি রাখা । \n\n
+
+(৪) রুকুতে পায়ের পাতার দিকে দৃষ্টি রাখা । \n\n
+
+(৫) বৈঠকে কোলের দিকে দৃষ্টি রাখা । \n\n
+
+(৬) সাধ্যানুযায়ী হাসি ও কাশি বন্ধ রাখা । \n\n
+
+(৭) রুকুতে মাথা ও পৃষ্ঠ ভাগ সমান উঁচু রাখা । \n\n
+
+(৮) সিজদায় প্রথমে দুই হাঁটু ,তারপর দুই হাত জমিনে রাখা, পরে নাক ও তারপরে কপাল জমিনে রাখা এবং সেজদা হতে উঠার সময়ে যথাক্রমে প্রথমে কপাল, পরে নাক উঠিয়ে তৎপর দুই হাত হাঁটুর উপরে রেখে বসা । \n\n
+
+(৯) সিজদায় দুই হাতের মধ্যে মাথা রাখা, নাক দুই বৃদ্ধাংগুলির মধ্যে বরাবর রাখা । \n\n
+
+(১০) হাত-পায়ের আঙ্গুলিসমূহ কেবলা মুখ করে রাখা । \n\n
+
+(১১) ছালাম ফিরানোর সময় দুই সিনার প্রতি দৃষ্টি রাখা । \n\n
+
+(১২) সেজদায় পুরুষের দুই হাত পৃথক ভাবে রাখা এইভাবে উঁচুতে রাখতে হবে যেন বকরীর বাচ্চা যাতায়াত করতে পারে । কিন্তু স্ত্রীলোকের জন্য সেজদায় এর বিপরীত করতে হবে । যেমন দুই হাত চাপিয়ে রাখা এবং রানের উপর পেট রাখা । \n\n
+
+(১৩) তিন বারের অধিক-বেজোড় তছবীহ্ পড়া । \n\n
+
+(১৪) ফযরের নামাযে (سورة الحجراة – سورة البلد ) এর মধ্যে যে কোন ২টি সুরা পড়া। \n\n
+
+(১৫) আছরের নামাজে ( سورة الشمس – سورة البينة) এর মধ্যে যে কোন ২টি সুরা পড়া । \n\n
+
+(১৬) মাগরিবের নামাজে ছোট ছোট সূরাহ (سورة الزلزال - سورة الناس) পাঠ করা । \n\n
+
+(১৭) এশার নামাজে (سورة الحجراة – سورة البلد ) এর মধ্যে যে কোন ২টি সুরা পাঠ করা ।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

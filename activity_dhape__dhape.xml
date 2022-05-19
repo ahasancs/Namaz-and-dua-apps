@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="0dp"
+    android:background="#456"
+    tools:context="com.islamic.jakirliton.namazoduya.Dhape_Dhape">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="15dp"
+        android:background="#ffffff"
+       >
+        <Button
+            android:id="@+id/tid1"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="পুরুষের নামাজ"
+            android:textSize="30dp"
+            android:layout_margin="3dp"
+            android:backgroundTint="@color/colorAccent"
+            />
+
+        <Button
+            android:id="@+id/tid2"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:text="নারীদের নামাজ"
+            android:textColor="#ffff"
+            android:textSize="30dp"
+            android:background="#456"
+            />
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

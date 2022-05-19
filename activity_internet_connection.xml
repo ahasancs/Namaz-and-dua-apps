@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fd00060b"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.InternetConnection">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#fbf9fafa"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:background="#e300060b"
+        android:text="Please Connect your Internet Connection."/>
+    <Button
+       android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eb00060b"
+        android:text="Thkank you"
+        android:textColor="#ffffff"
+        android:textSize="35dp"/>
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="3dp"
+    android:background="@drawable/color"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.islamic.jakirliton.namazoduya.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <Button
+        android:id="@+id/namaz"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="নামাজ"
+        android:textSize="60dp"
+
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#4567"/>
+
+    <Button
+        android:id="@+id/duya"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+
+        android:text="দোয়া"
+        android:textSize="60dp"
+        android:backgroundTint="#4567"/>
+
+
+
+</LinearLayout>

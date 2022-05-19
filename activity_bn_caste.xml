@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.bn_caste">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAllCaps="false"
+                android:background="#15948e"
+                android:gravity="center"
+                android:id="@+id/btn_caste"
+                android:textSize="30dp"
+                android:text="চাশতের নামাজ"
+                android:textColor="#f3f4f7"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/caste"
+                android:textSize="20dp"
+                android:textStyle="italic"
+
+                android:textColor="#00162d"
+                android:text="দৈনিক পাঁচবার ফরজ নামাজ আদায় করা সব মুসলমানের জন্য বাধ্যতামূলক। কিন্তু এর বাইরেও বিভিন্ন নফল নামাজ আছে। চাশতের নামাজ তারই একটি। দিনের এক-তৃতীয়াংশ অতিবাহিত হয়ে যাওয়ার পর চাশতের ওয়াক্ত শুরু হয়। সূর্য ঢলে যাওয়া পর্যন্ত তা বাকি থাকে। \n
+
+ঘড়ির হিসাবে গ্রীষ্মকালে সকাল ৯টা থেকে এবং শীতকালে সকাল ১০টা থেকে চাশতের ওয়াক্ত শুরু হয়। এ নামাজকে আরবিতে ‘সালাতুদ্ দোহা’ বলা হয়। চাশতের নামাজের রাকাতের সংখ্যা হাদিসে দুই, ছয়, আট ও বারো এসেছে। এ জন্য চাশতের নামাজ কমপক্ষে দুই রাকাত পড়া আবশ্যক। দুই রাকাতের বেশি বারো রাকাত পর্যন্ত যত ইচ্ছা পড়বে। হজরত আয়েশা (রা.) আট রাকাত পড়তেন এবং বলতেন, ‘যদি আমার মা-বাবাও কবর থেকে উঠে চলে আসেন, তাহলেও আমি তা ছাড়ব না।’ (মিশকাত শরিফ)\n  হজরত উম্মে হানি (রা.) বর্ণনা করেন, রাসুলুল্লাহ (সা.) মক্কা বিজয়ের দিন আমার ঘরে এসে চাশতের আট রাকাত নামাজ আদায় করেছেন। (বুখারি ও মুসলিম) \n চাশতের নামাজের গুরুত্ব  মহানবী (সা.) ইরশাদ করেন, “দৈনিক ভোরে প্রতিটি মানুষ (তার শরীরের) প্রত্যেক জোড়ার পক্ষ থেকে সদকা করা উচিত। প্রত্যেক ‘সুবহানাল্লাহ’ সদকা, প্রত্যেক ‘আলহামদুলিল্লাহ’ সদকা, প্রত্যেক ‘লা-ইলাহা ইল্লাল্লাহ’ সদকা ও প্রত্যেক ‘আল্লাহু আকবার’ সদকা। আর সৎ কাজের আদেশ করা সদকা ও অসৎ কাজে বাধা প্রদান করা সদকা।\n
+
+চাশতের দুই রাকাত পড়ে নেওয়া তার পক্ষ থেকে (অর্থাৎ প্রত্যেক জোড়ার সদকার জন্য) যথেষ্ট।’’ (মুসলিম শরিফ)  অন্য হাদিসে এসেছে : মহানবী (সা.) ইরশাদ করেছেন, ‘যে ব্যক্তি চাশতের দুই রাকাতের প্রতি যত্নবান হলো, তার সব গুনাহ ক্ষমা করে দেওয়া হবে, যদিও তা সমুদ্রের ফেনার সমপরিমাণ হয়।’ (তিরমিজি ও ইবনে মাজাহ)   \n
+
+মহানবী (সা.) আরো ইরশাদ করেছেন, ‘যে ব্যক্তি চাশতের ১২ রাকাত নামাজ আদায় করে, আল্লাহ তাআলা তার জন্য জান্নাতে একটি স্বর্ণের ঘর নির্মাণ করবেন।’ (তিরমিজি ও ইবনে মাজাহ) \n মাসআলা : চাশতের নামাজের নিয়ত দুই রাকাত করেও করা যায় এবং চার রাকাত করেও করা যায়। উভয়ভাবেই হতে পারে।  নামাজের নিয়ত আরবিতে করা জরুরি নয়। তাই মনে মনে এভাবে নিয়ত করা যাবে—আমি আল্লাহর ওয়াস্তে কেবলামুখী হয়ে চাশতের দুই রাকাত নফল নামাজের নিয়ত করছি—আল্লাহু আকবার। "/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

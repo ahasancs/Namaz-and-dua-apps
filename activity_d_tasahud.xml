@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_tasahud">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_tasahud"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f8f9fa"
+                android:textStyle="italic"
+                android:textSize="30dp"
+                android:background="#17a496"
+                android:text="তাশাহুদ বা আত্তাহিয়্যাতু"/>
+            <TextView
+                android:id="@+id/text_tasahud"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textColor="#02203e"
+                android:textStyle="italic"
+                android:text="উচ্চারণঃ আত্তাহিয়্যাতু লিল্লা-হি,  ওয়াছ ছালা-ওয়াতু, ওয়াত-তাইয়্যিবা তু, আচ্ছালা মু আ’লাইকা, আইয়্যুহান নাবিয়্যু, ওয়ারাহ মাতুল্লাহি ওয়া বারাকাতুহ, আচ্ছালামু আলাইনা, ওয়া আ’লা ইবাদিল্লা হিছ-ছা লিহীন। আশহাদু আল লা-ইলা-হা ইল্লাল্লাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু । \n \n
+
+অর্থঃ আমাদের সব সালাম শ্রদ্ধা, আমাদের সব নামাজ এবং সকল প্রকার পবিত্রতা একমাত্র আল্লাহর উদ্দেশ্যে। হে নবী, আপনার প্রতি সালাম, আপনার উপর আল্লাহর রহমত এবং অনুগ্রহ বর্ষিত হউক । আমাদের ও আল্লাহর নেক বান্দাদের উপর আল্লাহর রহমত এবং অনুগ্রহ বর্ষিত হউক। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া আর কেউ নেই, আমি আরও সাক্ষ্য দিচ্ছি যে, হযরত মুহাম্মদ (সঃ) আল্লাহর বান্দা এবং রাসুল ।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

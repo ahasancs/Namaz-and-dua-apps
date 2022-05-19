@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    tools:context="com.islamic.jakirliton.namazoduya.G_noshiddokarjaboli">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/text_nodhoddo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#011040"
+                android:text="রাসুল সা. সালাতের মধ্যে কতগুলো কার্যকে নিষিদ্ধ করেছেন।\n
+                 তা হলো- ১. দু’পা একত্রে মিলিয়ে দাঁড়ানো (নারীগন দাঁড়াতে পারে)\n
+                  ২. এক পায়ে ভর দিয়ে দাঁড়ানো\n
+                  ৩. নিতম্বের উপর বসে হাটুদ্বয় খাড়া করে দু হাত যমীনে রাখা\n
+                  ৪. চাদর বা অন্য কাপড় এমনভাবে জড়িয়ে নেয়া যে, হাত তার ভিতরে থাকে এমনকি রুকু সিজদার সময়ও তা বের হয়না \n
+                  ৫. সিজদার সময় বস্র উঠানো \n
+                  ৬. জামার উপর লুঙ্গি বা পাজামা পরিধান (ইমাম আহমদের মতে)\n
+                  ৭. কোমরে হাত রাখা \n
+                  ৮. তকবীরের সাথে তিলাওয়াত বা তসবীহ মিলিয়ে পড়া \n
+                  ৯. ইমামের আগে বা সাথে মিলিয়ে তকবীর বলা \n
+                  ১০. প্রথম সালামের সাথে দ্বিতীয় সালাম মিলিয়ে বলা\n
+                  ১১. প্রাকৃতিক প্রয়োজনের বেগ নিয়ে সালাত শুরু \n
+                  ১২. খাদ্য-পানীয়ের উপায় থাকা সত্ত্বেও অধিক ক্ষুধা-তৃঞ্চা নিয়ে সালাত \n
+                  ১৩. ক্ষুদ্ধ বা ক্রুদ্ধ দিল নিয়ে সালাতে দাড়ানো। \n\n
+এক হাদীসে বর্ণিত হয়েছে যে, সালাতের মধ্যে সাতটি কাজ শয়তানের পক্ষ থেকে হয়ে থাকে;\n
+১. নাক দিয়ে রক্ত আসা (অসুস্থতা ভিন্ন কথা)। বিনা কারণে এরূপ হলে আল্লাহর নিকট আশ্রয় চাইবে।  \n
+২. নিদ্রা আসা\n
+৩. মনে কুমন্ত্রণার উদয়\n
+৪. হাই তোলা \n
+৫. শরীর বা মাথা চুলকানো \n
+৬. এদিক ওদিক দৃষ্টিপাত এবং \n
+৭. কোন কিছু নিয়ে খেলা করা। \n\
+সালাতের সময় এদিক সেদিক দৃষ্টিপাত, অনর্থক মুখ মোছা, আঙুল ফোটানো, রুকু থেকে দাঁড়িয়ে বা অন্য সময় হাত ঝাকি মেরে সোজা করা, অনর্থক কাশি বা গলা খাকরি দেওয়া, মানুষের চলাচলের পথ সামনে রেখে সালাত আদায় গুরুতর অন্যায়। \n
+হযরত হাছান বসরী রঃ বলেন, যে সালাতে মন হাযির না থাকে, তা দ্রুত আযাবের দিকে পৌছে দেয়।  \n
+রাসুল সা. বলেছেন, মানুষ সালাত আদায় করে কিন্তু তার ষষ্টাংশ বা দশমাংশও লিখিত হয়না, লিখা হয় শুধু ততটুকু, যতটুকু সে বুঝে শুনে পড়ে। কোন কোন সাহাবী বর্ণনা করেছেন যে, কিয়ামতে মানুষ সেই অবস্থায়ই উত্থিত হবে, যে যার সালাতে যেরূপ অবস্থায় ছিলো। অর্থাৎ সালাতের মধ্যে যে পরিমাণ প্রশান্তি, স্থিরতা এবং আনন্দ লাভ করবে"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

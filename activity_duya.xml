@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.islamic.jakirliton.namazoduya.duya">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#f9fafc"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_margin="10dp">
+
+            <Button
+                android:id="@+id/tid0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:layout_margin="7dp"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নিত্যদিন"
+                />
+            <Button
+                android:id="@+id/tid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="ঘুম"
+                />
+
+            <Button
+                android:id="@+id/tid3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:layout_margin="7dp"
+                android:text="হজ-সিয়াম" />
+            <Button
+                android:id="@+id/tid4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:layout_margin="7dp"
+                android:text="কোরআন"
+               />
+
+
+            <Button
+                android:id="@+id/tid7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="অসুস্থতা"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:layout_margin="7dp"
+                android:textColor="#fd080808"/>
+            <Button
+                android:id="@+id/tid5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="বিপদ মুক্তির দোয়া"
+                android:layout_margin="7dp"
+                />
+
+            <Button
+                android:id="@+id/tid2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                android:textSize="30dp"
+                android:background="#ffffff"
+                android:textAlignment="center"
+                android:textColor="#fd080808"
+                android:text="নির্বাচিত দোয়া"
+                />
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

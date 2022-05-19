@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_ruku">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity=""
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_ruku"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fa159f84"
+                android:textSize="30dp"
+                android:textColor="#f2f4f7"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="রূকু"/>
+          <TextView
+              android:id="@+id/text_ruku"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:textColor="#010728"
+              android:textStyle="italic"
+              android:textSize="20dp"
+              android:text=" সূরা ক্বিরাতের পর আল্লাহু-আকবার বলে রুকুতে যাবে এবং নিম্নোক্ত রুকুর দোয়াটি পাঠ করবেঃ \n
+
+  \n \n          سبحان ربي العظيم
+
+            উচ্চারণঃ সুবহানা রাব্বি\'আল \'আজীম
+            অর্থঃ আমি আমার মহান প্রভুর পবিত্রতা বর্ণনা করছি।
+            দো\'আটি তিন বা তার অধিক (পাঁচবার/সাতবার) পড়া ভাল।
+            রুকু থেকে উঠার দোয়াঃ \n
+
+      \n \n     سمع الله لمن حمده
+
+            উচ্চারণঃ সামি\'আল্লাহু লিমান হামিদাহ্ \n
+            রুকু থেকে উঠে সোজা হয়ে দাঁড়িয়ে পড়ার দোয়াঃ \n
+
+        \n\n     ربنا ولك الحمد
+
+            উচ্চারণঃ রাব্বানা- ওয়া লাকাল হামদ্ \n
+            অর্থঃ হে আমাদের প্রতিপালক! তোমার জন্যই সমস্ত প্রশংসা। \n
+            এরপর আল্লাহু-আকবার বলে সিজদায় যাবে। এবং নিম্নোক্ত দোয়াটি তিনবার বা তার অধিক (পাঁচবার বা সাতবার) পাঠ করবে \n\n
+
+       \n\n      سبحان ربي الأعلى
+
+            উচ্চারণঃ সুবহানা রাব্বিয়াল আ\'লা \n
+            অর্থঃ আমার সর্বোচ্চ প্রতিপালকের [আল্লাহর] প্রশংসা করছি। \n
+            এরপর আল্লাহু-আকবার বলে সিজদা থেকে সোজা হয়ে বসবে এবং দুই সিজদার মাঝখানে এই দোয়াটি পড়বেঃ \n\n
+
+         \n\n    رَبِّ اغْفِرْلِيْ؛ رَبِّ اغْفِرْلِيْ؛ رَبِّ اغْفِرْلِيْ؛ اَللَّهُمَ اغْفِرْلِيْ، وَارْحَمْنِيْ وَاهْدِنِيْ وَارْزُقْنِيْ وَعَافِنِيْ وَاجْبُرْنِيْ.
+
+            উচ্চারণঃ রব্বিগ্ফিরলী-, রব্বিগ্ফিরলী-, রব্বিগ্ফিরলী-, আল্লাহুম্মাগ্ফিরলী-, ওয়ারহামনী-, ওয়াহদিনী-, ওয়ারযোকনী-, ওয়া \'আ-ফিনী-, ওয়াজবুরনী-। \n
+            অর্থঃ হে আল্লাহ্! আমাকে ক্ষমা কর, হে আল্লাহ্! আমাকে ক্ষমা কর, হে আল্লাহ্! আমাকে ক্ষমা কর। হে আল্লাহ্! আমাকে ক্ষমা কর, আমাকে রহম কর, আমাকে হেদায়াত দান কর, আমাকে রিযিক দান কর, আমাকে সুস্থ্যতা দান কর এবং আমার ক্ষয়ক্ষতি পূরণ কর। \n
+            অতঃপর পুনরায় আল্লাহু-আকবার বলে দ্বিতীয় সিজদা দিবে এবং প্রথম সিজদার অনুরূপ করবে। "/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

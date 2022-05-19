@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.koripoy_wajib">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_wajib"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#f8f9fa"
+                android:textSize="30dp"
+                android:background="#18a7a0"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:text="ওয়াজিব"/>
+            <TextView
+                android:id="@+id/text_wajib"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textStyle="italic"
+                android:textColor="#012d02"
+                android:text=" নামাজের মধ্যে রয়েছে ১৪টি ওয়াজিব কাজ। ওয়াজিব কাজ বলতে ঐ সব কাজকে বুঝায়, যার কোনো একটিও ছুটে গেলে সিজদায়ে সাহু আদায় করতে হয়। সিজদায়ে সাহু আদায় করতে ভুলে গেলে পুনরায় নামাজ পড়তে হয়। তাই নামাজের ওয়াজিবগুলো যথাযথ আদায় না করলে নামাজ হবে না। নামাজের ওয়াজিবগুলো তুলে ধরা হলো-\n\n
+
+০১. প্রত্যেক নামাজে সুরা ফাতিহা (আলহামদুলিল্লাহ) পড়া। \n \n
+
+০২. প্রত্যেক নামাজে সুরা ফাতিহার পর (কিরাত) সুরা মিলনো (কমপক্ষে তিন আয়াত অথবা তিন আয়াতের সমকক্ষ এক আয়াত পরিমাণ তিলাওয়াত করা)। \n \n
+
+০৩. ফরজ নামাজের প্রথম দুই রাকাআতকে কিরাতের জন্য নির্ধারিত করা। \n \n
+
+০৪. কিরাআত, রুকু, সিজদার মধ্যে ক্রমধারা বা তারতিব ঠিক রাখা। \n \n
+
+০৫. কাওমা করা অর্থাৎ রুকু থেকে সোজা হয়ে দাঁড়ানো। \n \n
+
+০৬. জলসা করা অর্থাৎ দুই সিজদার মাঝখানে সোজা হয়ে বসা। \n \n
+
+০৭. তাদিলে আরকান করা অর্থাৎ রুকু, সিজদা, কাওমা, জলসায় কমপক্ষে এক তাসবিহ পরিমাণ স্থির থাকা। যাতে শরীরের প্রতিটি অঙ্গ যথাস্থানে পৌঁছে যায়। \n \n
+
+০৮. কাদায়ে ওলা অর্থাৎ তিন বা চার রাকাআত বিশিষ্ট নামাজে দুই রাকাআত পর আত্তাহিয়াতু পড়া বা সম-পরিমাণ সময় বসা। \n \n
+
+০৯. প্রথম ও শেষ বৈঠকে আত্তাহিয়াতু পড়া। \n \n
+
+১০. জাহেরি নামাজে প্রথম দুই রাকাআত ইমামের জন্য উচ্চস্বরে কিরাআত পড়া এবং সিররি নামাজের মধ্যে ইমাম ও একাকি নামাজির অনুচ্চ শব্দে কিরাআত পড়া।  \n \n
+
+১১. সালাম ফিরানো। অর্থাৎ ‘আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহ’ বলে নামাজ শেষ করা। \n \n
+
+১২. বিতরের নামাজের দোয়ায়ে কুনুত পড়ার জন্য অতিরিক্ত তাকবির বলা এবং দোয়ায়ে কুনুত পড়া। \n \n
+
+১৩. দুই ঈদের নামাজে ছয় ছয় তাকবির বলা। \n \n
+
+১৪. প্রত্যেক রাকাআতের ফরজ এবং ওয়াজিবগুলোর তারতিব (ধারাবাহিকতা) ঠিক রাখা।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

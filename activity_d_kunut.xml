@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_kunut">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_kunut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fa159f84"
+            android:textSize="30dp"
+            android:textColor="#f2f4f7"
+            android:textStyle="italic"
+            android:gravity="center"
+            android:text="দোয়ায়ে কুনূত"/>
+
+        <TextView
+            android:id="@+id/text_kunut"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="italic"
+            android:textColor="#020750"
+            android:textSize="20dp"
+            android:text=" ﺍَﻟﻠَّﻤُﻢَّ
+ﺍِﻥَّ ﻧَﺴْﺘَﻌِﻴْﻨُﻚَ ﻭَﻧَﺴْﺘَﻐْﻔِﺮُﻙَ ﻭَﻧُﺆْﻣِﻦُ ﺑِﻚَ ﻭَﻧَﺘَﻮَﻛَّﻞُ ﻋَﻠَﻴْﻚَ
+ﻭَﻧُﺜْﻨِﻰْ ﻋَﻠَﻴْﻚَ ﺍﻟْﺨَﻴْﺮَ ﻭَﻧَﺸْﻜُﺮُﻙَ ﻭَﻻَ ﻧَﻜْﻔُﺮُﻙَ ﻭَﻧَﺨْﻠَﻊُ ﻭَﻧَﺘْﺮُﻙُ
+ﻣَﻦْ ﻳَّﻔْﺠُﺮُﻙَ - ﺍَﻝﻟَّﻬُﻢَّ ﺍِﻳَّﺎﻙَ ﻧَﻌْﺒُﺪُ ﻭَﻟَﻚَ ﻧُﺼَﻠِّﻰْ ﻭَﻧَﺴْﺠُﺪُ
+ﻭَﺍِﻟَﻴْﻚَ ﻧَﺴْﻌَﻰ ﻭَﻧَﺤْﻔِﺪُ ﻭَﻧَﺮْﺟُﻮْ ﺭَﺣْﻤَﺘَﻚَ ﻭَﻧَﺨْﺸَﻰ ﻋَﺬَﺍﺑَﻚَ
+ﺍِﻥَّ ﻋَﺬَﺍﺑَﻚَ ﺑِﺎﻟْﻜُﻔَّﺎﺭِ ﻣُﻠْﺤِﻖٌ
+            \n\n উচ্চারণ:
+আল্লাহুম্মা ইন্না নাসতাঈনুকা ওয়া নাসতাগ
+ফিরুকা ওয়ানুমিনু
+বিকা ওয়ানাতাওয়াক্কালু
+আলাইকা ওয়া নুছনী আলাইকাল
+খাইর । ওয়া নাসকুরুকা আলা নাক
+ফুরুকা ওয়ানাখলাউ উয়ানাত রুকু
+মাইয়্যাফযুরুকা ।
+আল্লাহুম্মা ইয়্যাকানা বুদু
+ওয়ালাকা নুছালি্ল ওয়া নাস জুদু
+ওয়া ইলাইকা নাসয়া ওয়া নাহফিদু
+ওয়া নারজু
+রাহমাতাকা ওয়া নাখশা আজাবাকা ইন্না আজাবাকা বিলকুফফারি মূলহিক
+।
+            \n\nঅনুবাদ: হে আল্লাহ! আমরা তোমার
+নিকট সাহায্য
+প্রার্থনা করিতেছি, তোমার
+নিকট ক্ষমা প্রার্থনা করিতেছি,
+তোমার ভরসা করিতেছি ।
+তোমার নিকট
+ক্ষমা ভিক্ষা করিতেছি, তোমার
+উপর ঈমান আনিতেছি, তোমার
+ভরসা করিতেছি তোমার গুণগান
+করিতেছি এবং তোমারই
+কৃতজ্ঞতা জ্ঞাপন করিতেছি ।
+আমরা তোমাকে অস্বীকার
+করি না । যাহারা তোমার হুকুম
+অমান্য করে তাহাদের
+সঙ্গে আমরা সংশ্রব সংসগ্র
+পরিত্যাগ করি । হে আল্লাহ!
+আমরা তোমারই ইবাদত করি,
+তোমারই খেদমতে হাজির হই
+এবং তোমার রহমতের আশা করি ও
+তোমার শাস্তিকে ভয় করি । নিশ্চই
+তোমার আজাব অবিশ্বাসিগণ
+ভোগ করিবে ।"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

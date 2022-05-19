@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.S_lahab">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_lahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textColor="#f2f2f7"
+                android:textStyle="italic"
+                android:background="#18a9a9"
+                android:text="সূরা লাহাব"/>
+            <TextView
+                android:id="@+id/text_lahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textColor="#010543"
+                android:textStyle="italic"
+                android:text="بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ \n
+
+
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ ١ \n
+مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ ٢ \n
+سَيَصْلَى نَارًا ذَاتَ لَهَبٍ ٣ \n
+وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ ٤ \n
+فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ ٥ \n\n
+
+বাংলা উচ্চারণ:\n তাব্বাত ইয়াদ আবি লাহাবিও ওয়াতাব্ব। মা আগনা আনহু মালুহু ওয়ামা কাসাব। সায়াসলা নারনযাতা লাহাব। ওয়ামরা আতুহু হাম্মা লাতাল হাতব। ফিই জিইদিহা হাবলুম মিম মাসাদ।\n\n
+
+বাংলা অনুবাদঃ \n
+
+ধ্বংস হোক আবু লাহাবের হস্তদ্বয় এবং ধ্বংস হোক সে নিজেও। \n
+তার ধন-সম্পদ আর সে যা অর্জন করেছে তা তার কোন কাজে আসল না। \n
+অচিরেই সে শিখা বিশিষ্ট জাহান্নামের আগুনে প্রবেশ করবে, \n
+আর তার স্ত্রীও- যে কাঠবহনকারিণী (যে কাঁটার সাহায্যে নবী-কে কষ্ট দিত এবং একজনের কথা অন্যজনকে ব’লে পারস্পরিক বিবাদের আগুন জ্বালাত)। \n
+আর (দুনিয়াতে তার বহনকৃত কাঠ-খড়ির পরিবর্তে জাহান্নামে) তার গলায় শক্ত পাকানো রশি বাঁধা থাকবে।\n\n"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/btn1_lahab"
+                android:textStyle="italic"
+                android:textColor="#f6f6f9"
+                android:layout_margin="04px"
+                android:background="#0a2191"
+                android:textSize="30dp"
+                android:text="Play Quran"/>
+
+
+            <Button
+                android:id="@+id/btn2_lahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="30dp"
+                android:textColor="#f2f2f7"
+                android:textStyle="italic"
+                android:background="#18a9a9"
+                android:text="শানে নুযূল"/>
+            <TextView
+                android:id="@+id/text1_lahab"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20dp"
+                android:textColor="#010543"
+                android:textStyle="italic"
+                android:text="আল্লাহ্‌ একটি আয়াত অবতীর্ণ করলে রসূলুল্লাহ্‌ (সাঃ) সাফা পর্বতে আরোহণ করে কোরাইশ গোত্রের উদ্দেশে আবদে মানাফ ও আবদুল মোত্তালিব ইত্যাদি নাম সহকারে ডাক দিলেন। এভাবে ডাক দেয়া তখন আরবে বিপদাশংকার লক্ষণ রূপে বিবেচিত হত। ডাক শুনে কোরাইশ গোত্র পর্বতের পাদদেশে একত্রিত হল। রসূলুল্লাহ্‌ (সাঃ) বললেনঃ যদি আমি বলি যে, একটি শত্রুদল ক্রমশঃই এগিয়ে আসছে এবং সকাল বিকাল যে কোন সময় তোমাদের উপর ঝাঁপিয়ে পড়বে, তবে তোমরা আমার কথা বিশ্বাস করবে কি? সবাই একবাক্যে বলে উঠলঃ হাঁ, অবশ্যই বিশ্বাস করব। অতঃপর তিনি বললেনঃ আমি (শিরক ও কুফরের কারণে আল্লাহ্‌র পক্ষ থেকে নির্ধারিত) এক ভীষণ আযাব সর্ম্পকে তোমাদেরকে সতর্ক করছি। একথা শুনে আবু লাহাব বললঃ ধ্বংস হও তুমি, এজন্যেই কি আমাদেরকে একত্রিত করেছ? অতঃপর সে রসূলুল্লাহ্‌ (সাঃ)-কে পাথর মারতে উদ্যত হল। এই ঘটনার পরিপ্রেক্ষিতে সূরা লাহাব অবতীর্ণ হয়"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

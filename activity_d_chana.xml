@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.islamic.jakirliton.namazoduya.D_chana">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_chana"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textSize="30dp"
+                android:textColor="#dadee4"
+                android:text=" সানা "
+                android:background="#159b82"/>
+
+            <TextView
+                android:id="@+id/text_chana"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textStyle="italic"
+                android:textColor="#01203e"
+                android:textSize="20dp"
+                android:text="سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَا لَى جَدُّكَ وَلاَ اِلَهَ غَيْرُكَ
+                \n\n
+সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা ওয়া তাবারাকাস্’মুকা ওয়া তায়া’লা জাদ্দুকা ওয়া লা ইলাহা গাইরুকা।. \n\n
+অর্থ : হে আল্লাহ ! তুমি পাক্,তোমারই জন্য সমস্ত্ প্রশংসা, তোমার নাম পবিত্র এবং বরকতময়, তোমার গৌরব অতি উচ্চ,তুমি ছাড়া অন্য কেহ উপাস্য নাই । \n\n
+
+আল্লা-হুম্মা বা-’ইদ বাইনী ওয়া বাইনা খাতা-ইয়া-য়া,কামা- বা-’আদ্তা বাইনাল মাশরিক্বী ওয়াল মাগরিবি,আল্লা-হুম্মা নাক্কিনী- মিন খাতা-ইয়া-য়া কামা-ইউনাক্কাছ্ ছাওবুল আবইয়াদু মিনাদ্দানাসি,আল্লা-হুম্মাগসিলনী- মিন খাতা-ইয়া-য়া বিল মা-য়ি,ওয়াছ্ছালজি,ওয়াল বারদি \n
+অর্থঃ হে আল্লাহ্! তুমি আমাকে আমার পাপগুলো থেকে এত দূরে রাখ যেমন পূর্ব ও পশ্চিম পরস্পরকে পরস্পর থেকে দূরে রেখেছ। হে আল্লাহ্! তুমি আমাকে আমার পাপ হতে এমন ভাবে পরিষ্কার করে দাও,যেমন সাদা কাপড়কে ময়লা হতে পরিষ্কার করা হয়। হে আল্লাহ্! তুমি আমাকে আমার পাপ হতে (পবিত্র করার জন্য) পানি,বরফ ও শিশির দ্বারা ধুয়ে পরিষ্কার করে দাও।"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.islamic.jakirliton.namazoduya.kotipoy_ahkam">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+
+        <Button
+            android:id="@+id/btn_ahkam"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="30dp"
+            android:textColor="#fafafa"
+            android:textStyle="italic"
+            android:text="নামাজের আহকাম ও আরকান ১৩ টি"
+            android:background="#17a496"/>
+
+        <TextView
+            android:id="@+id/text_ahkam"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#010a35"
+            android:textStyle="italic"
+            android:textSize="20dp"
+            android:text="নামাজের আহকাম ও আরকান মোট ১৩ টি  \n \n
+আহকামগুলো হল:  \n
+1. শরির পাক  \n
+2. কাপড় পাক \n
+3. নামাজের জায়গা পাক  \n
+4. ছতর ঢাকা \n
+5. কিবলামুখী হওয়া \n
+6. সময়মত নামাজ পড়া \n
+7. নামাযের নিয়ত করা \n \n
+নামাজের আরকান গুলো হল:  \n
+1. তাকবির তাহরীমা বলা \n
+2. কিয়াম করা \n
+3. কিরাত পড়া \n
+4. রুকু করা \n
+5. সেজদা করা  \n
+6. শেষ বৈঠকে বসা"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
